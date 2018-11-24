@@ -8,9 +8,9 @@ namespace KursachSAS
 {
     class Matrix<T>
     {
-        public Matrix()
+        public Matrix(int n, int m)
         {
-            
+            matrixTable = new T[n, m];
         }
         private T[,] matrixTable;
         public T this[int i, int j]
@@ -24,5 +24,6 @@ namespace KursachSAS
                 return matrixTable[i,j];
             }
         }
+
     }
 }
