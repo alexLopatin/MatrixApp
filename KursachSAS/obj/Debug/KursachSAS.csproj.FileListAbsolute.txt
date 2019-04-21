@@ -1,0 +1,36 @@
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\KursachSAS\KursachSAS\bin\Debug\KursachSAS.exe.config
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\KursachSAS\KursachSAS\bin\Debug\KursachSAS.exe
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\KursachSAS\KursachSAS\bin\Debug\KursachSAS.pdb
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\KursachSAS\KursachSAS\obj\Debug\KursachSAS.csprojResolveAssemblyReference.cache
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\KursachSAS\KursachSAS\obj\Debug\KursachSAS.Properties.Resources.resources
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\KursachSAS\KursachSAS\obj\Debug\KursachSAS.csproj.GenerateResource.Cache
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\KursachSAS\KursachSAS\obj\Debug\KursachSAS.exe
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\KursachSAS\KursachSAS\obj\Debug\KursachSAS.pdb
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\bin\Debug\KursachSAS.exe.config
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\bin\Debug\KursachSAS.exe
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\bin\Debug\KursachSAS.pdb
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.Properties.Resources.resources
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.csproj.GenerateResource.Cache
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.exe
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.pdb
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.csprojResolveAssemblyReference.cache
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.EditMatrix.resources
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.View.MatrixGrid.resources
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.View.OperationView.resources
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.MainWindow.resources
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.Reference.resources
+F:\KursachSAS\KursachSAS\bin\Debug\KursachSAS.exe.config
+F:\KursachSAS\KursachSAS\bin\Debug\KursachSAS.exe
+F:\KursachSAS\KursachSAS\bin\Debug\KursachSAS.pdb
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.csprojAssemblyReference.cache
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.EditMatrix.resources
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.MainWindow.resources
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.Properties.Resources.resources
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.Reference.resources
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.View.MatrixGrid.resources
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.View.OperationView.resources
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.csproj.GenerateResource.cache
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.csproj.CoreCompileInputs.cache
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.exe
+F:\KursachSAS\KursachSAS\obj\Debug\KursachSAS.pdb
+C:\Users\Алик\Documents\GitHub\KursachSAS\KursachSAS\obj\Debug\KursachSAS.EditOperandForm.resources
